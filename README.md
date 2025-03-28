@@ -10,6 +10,7 @@ Through this repository, I aim to:
 - Track my learning progress with Cyfrin Updraft.
 - Showcase the projects and exercises I complete.
 - Share valuable resources and insights with fellow learners.
+- Gain more insights on web3 space
 
 ## 🎯 Purpose of This Repository
 
